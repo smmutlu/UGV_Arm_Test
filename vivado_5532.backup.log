@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Mar 28 11:33:36 2018
+# Process ID: 5532
+# Current directory: C:/Program1/ProjectsThatMatter/Uartlite
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8664 C:\Program1\ProjectsThatMatter\Uartlite\Uartlite.xpr
+# Log file: C:/Program1/ProjectsThatMatter/Uartlite/vivado.log
+# Journal file: C:/Program1/ProjectsThatMatter/Uartlite\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Program1/ProjectsThatMatter/Uartlite/Uartlite.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/Sean/Documents/UGV_PROJECTS/Uartlite' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IP Repository Path: Could not find the directory 'C:/Program1/ProjectsThatMatter/AAA_SourceFiles/PololuStepperA_1.0', nor could it be found using path 'C:/Users/Sean/Documents/UGV_PROJECTS/AAA_SourceFiles/PololuStepperA_1.0'.
+CRITICAL WARNING: [Board 49-67] The board_part definition was not found for em.avnet.com:microzed_7020:part0:1.1. This can happen sometimes when you use custom board part. You can resolve this issue by setting 'board.repoPaths' parameter, pointing to the location of custom board files. Valid board_part values can be retrieved with the 'get_board_parts' Tcl command.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'c:/Program1/ProjectsThatMatter/AAA_SourceFiles/PololuStepperA_1.0'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'.
+WARNING: [BD 41-1661] One or more IPs have been locked in the design 'design_1.bd'. Please run report_ip_status for more details and recommendations on how to fix this issue.
+List of locked IPs:
+design_1_axi_gpio_0_0
+design_1_processing_system7_0_0
+design_1_axi_uartlite_0_0
+design_1_rst_ps7_0_100M_0
+design_1_PololuStepperA_0_0
+
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:12 . Memory (MB): peak = 778.172 ; gain = 98.012
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Mar 28 11:34:45 2018...

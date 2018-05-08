@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Mar 28 11:35:21 2018
+# Process ID: 19612
+# Current directory: C:/Program1/ProjectsThatMatter/Uartlite
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20180 C:\Program1\ProjectsThatMatter\Uartlite\Uartlite.xpr
+# Log file: C:/Program1/ProjectsThatMatter/Uartlite/vivado.log
+# Journal file: C:/Program1/ProjectsThatMatter/Uartlite\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Program1/ProjectsThatMatter/Uartlite/Uartlite.xpr
+update_compile_order -fileset sources_1
+launch_sdk -workspace C:/Program1/ProjectsThatMatter/Uartlite/Uartlite.sdk -hwspec C:/Program1/ProjectsThatMatter/Uartlite/Uartlite.sdk/design_1_wrapper.hdf
+launch_sdk -workspace C:/Program1/ProjectsThatMatter/Uartlite/Uartlite.sdk -hwspec C:/Program1/ProjectsThatMatter/Uartlite/Uartlite.sdk/design_1_wrapper.hdf

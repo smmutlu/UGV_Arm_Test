@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Mar 28 02:24:14 2018
+# Process ID: 9956
+# Current directory: c:/Users/Sean/Documents/UGV_PROJECTS/Uartlite/Uartlite.tmp/pololusteppera_v1_0_project/PololuStepperA_v1_0_project.runs/synth_1
+# Command line: vivado.exe -log PololuStepperA_v1_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source PololuStepperA_v1_0.tcl
+# Log file: c:/Users/Sean/Documents/UGV_PROJECTS/Uartlite/Uartlite.tmp/pololusteppera_v1_0_project/PololuStepperA_v1_0_project.runs/synth_1/PololuStepperA_v1_0.vds
+# Journal file: c:/Users/Sean/Documents/UGV_PROJECTS/Uartlite/Uartlite.tmp/pololusteppera_v1_0_project/PololuStepperA_v1_0_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source PololuStepperA_v1_0.tcl -notrace
